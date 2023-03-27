@@ -17,5 +17,5 @@ To run the browser
 
 ## Badges
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Downloads](https://img.shields.io/github/downloads/sakne/e621_web_browser/total)](/github/downloads/sakne/e621_web_browser/total)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+[![Downloads](https://img.shields.io/github/downloads/sakne/e621_web_browser/total?style=for-the-badge)](/github/downloads/sakne/e621_web_browser/total)
